@@ -10,7 +10,7 @@
 ![Sample Fractal](https://upload.wikimedia.org/wikipedia/commons/2/21/Mandel_zoom_00_mandelbrot_set.jpg)
 
 
-I have a fascination with fractals and believe that the `great codebases are a beautiful fractals`. 
+I have a fascination with fractals and believe that the `great codebases are beautiful fractals`. 
 For example; a typical webpage is made up of various cards for different sections and a developer shall arrange them with proper spacing and manipulate cards' content.
 Further, `each card, each small animation` on the card is built by doing a smaller version of the same exercise. 
 Diving deeper; one shall reach the code which makes the `fonts & dots` appear on the screen, which is again the similar exercise like CSS + HTML (in form vector-images).
